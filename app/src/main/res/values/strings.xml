@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Waw Drugs</string>
+    <string name="todo">TODO</string>
+    <string name="button">Button</string>
+    <string-array name="names">
+        <item>Grypa</item>
+        <item>Ból głowy</item>
+        <item>Ból gardła</item>
+        <item>Inne (pokaż wszystkie leki)</item>
+    </string-array>
+</resources>
